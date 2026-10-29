@@ -1,0 +1,27 @@
+body {
+  background-color: #eeeeee;
+  font-family: Arial, sans-serif;
+}
+
+.tarjeta {
+  background-color: white;
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+  text-align: center;
+}
+
+h1 {
+  color: #333333;
+}
+
+h2 {
+  color: #0066cc;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
